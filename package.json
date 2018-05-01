@@ -1,0 +1,24 @@
+{
+  "name": "c_i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanwhales/Continous_Integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanwhales/Continous_Integration/issues"
+  },
+  "homepage": "https://github.com/romanwhales/Continous_Integration#readme",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
