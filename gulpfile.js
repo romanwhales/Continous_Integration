@@ -167,6 +167,10 @@ gulp.task('minify',['lint'],function(){
 
 // gulp.watch('css/*.css',['copycss']);
 // gulp.watch('scripts/*.js',['minify']);
+// gulp.watch(['css/*.css', 'views/*.html', 'index.html'], ['build']);
+// gulp.watch('scripts/*.js', ['default']);
+// gulp.task('default',['copycss','minify']);
+
+
 gulp.watch(['css/*.css', 'views/*.html', 'index.html'], ['build']);
 gulp.watch('scripts/*.js', ['default']);
-gulp.task('default',['copycss','minify']);
