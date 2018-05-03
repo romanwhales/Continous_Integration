@@ -172,5 +172,5 @@ gulp.task('minify',['lint'],function(){
 // gulp.task('default',['copycss','minify']);
 
 
-gulp.watch(['css/*.css', 'views/*.html', 'index.html'], ['build']);
-gulp.watch('scripts/*.js', ['default']);
+//gulp.watch(['css/*.css', 'views/*.html', 'index.html'], ['build']);
+//gulp.watch('scripts/*.js', ['default']);
