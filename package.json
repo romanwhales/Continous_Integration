@@ -19,6 +19,37 @@
   "dependencies": {
     "angular": "^1.6.10",
     "bootstrap": "^4.1.1",
+    "browserify": "^16.2.0",
     "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.10",
+    "brfs": "^1.6.1",
+    "del": "^3.0.0",
+    "event-stream": "^3.3.4",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-size": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jasmine": "^3.1.0",
+    "jshint": "^2.9.5",
+    "karma": "^2.0.2",
+    "karma-browserify": "^5.2.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-junit-reporter": "^1.2.0",
+    "protractor": "^5.3.1",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.0"
   }
 }
